@@ -1,0 +1,13 @@
+!1. Caller's Full Name: [FirstName] [LastName] {NL}
+!2. Caller - CM or BP: [CMorBP] {NL}
+!3. Contact Phone Number: [PhoneNumber] {NL}
+!4. Email Address: [Email] {NL}
+!5. JetBlue UserID: [UserID] {NL}
+?6. Crewmember Number (If applicable): [CrewmemberNumber] {NL}
+?7. Requested Resources (If applicable): [RequestedResources] {NL}
+?8. Terminal Session/s (If applicable): [TerminalSession] {NL}
+?9. Intranet / SharePoint URLs - (If applicable): [URLs] {NL}
+?10. Share Drive/s (If applicable): [DrivePath] {NL}
+!11. Knowledge Base Article #: [KBNumber] {NL}
+!12. Knowledge Base Article Title: [KBTitle] {NL}
+?[Notes] {NL}

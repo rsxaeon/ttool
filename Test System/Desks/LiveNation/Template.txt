@@ -1,0 +1,14 @@
+?Existing Ticket Number: [TicketNumber]
+!Callers Name: [FirstName] [LastName]
+!Callers Contact Number: [PhoneNumber]
+!Live Nation or Ticket Master: [LNorTM]
+!Callers Email Address: [Email]
+!Current Location/Address:  [Location]
+!Issue: [Summary]
+!
+!____________________________________________________
+!
+!All steps performed by agent:
+?[Notes]
+!
+!KB Used: [KBTitle] - [KBNumber]
